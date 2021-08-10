@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+button{
+    margin: 10px;
+    border:none;
+    background-color: black;
+    color:white;
+     padding:10px 10px;
+     border-radius: 50%;
+     font-size: medium;
+     font-weight: bolder;
+}
